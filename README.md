@@ -1,1 +1,3 @@
 # yzu_big_data_final_project
+
+本作品用來預測台北搭捷運的人數是否與當天天氣狀況有關聯
